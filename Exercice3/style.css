@@ -1,0 +1,5 @@
+body p:first-child {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
